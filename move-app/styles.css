@@ -1,0 +1,17 @@
+.center{
+    display: flex;
+  justify-content: center;
+
+}
+
+#movieList{
+  display:block;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+
+ul {
+  list-style-type: none;
+}
